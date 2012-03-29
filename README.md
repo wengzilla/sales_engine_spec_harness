@@ -1,5 +1,5 @@
 # SalesEngineSpecHarness
-
+.
 This is the evaluation test harness for SalesEngine. It requires your implementation of SalesEngine as a gem, then runs the evaluation specs against it.
 
 ## Installing Locally
